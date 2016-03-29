@@ -1,0 +1,314 @@
+
+body {
+	margin: 0;
+	width: 100%;
+	font-family: futura;
+}
+
+a {
+	text-decoration: none;
+	color: none;
+}
+
+li {
+	list-style: none;
+	font-size: 25px;
+	margin: 5px 0;
+}
+
+.futura {
+	font-family: futura;
+}
+
+.whiteText {
+	color: white;
+}
+
+.blackText {
+
+}
+
+.greenText {
+
+}
+
+.pink {
+	background-color: #ff69b4;
+}
+
+.green {
+
+}
+
+div.advertTop {
+	background-color: gray;
+}
+
+img.imgHeader {
+	width: 180px;
+	height: auto;
+	margin: 0 37%;
+}
+
+div.mockAdvertTop {
+	background-color: white;
+	width: 60%;
+	height: 90%;
+	margin: 0 auto;
+}
+
+div.pageTop {
+	background-color: white;
+}
+
+div.loginBar {
+	width: 100%;
+	height: 70px;
+	display: inline-block;
+	margin: 0 25px;
+}
+
+.login {
+	padding-top: 5px; 
+	float: left;
+}
+
+.topButton {
+	color: white;
+	background-color: #ff69b4;
+	height: 60px; 
+	width: 120px;
+	font-size: 30px;
+}
+
+.loginButton {
+	background-color: #ff69b4;
+}
+
+.joinButton {
+	background-color: #69ffb4;
+	color: black;
+	margin-right: 10px;
+}
+
+.city {
+	padding-left: -10px
+}
+
+.cityText {
+	font-family: futura;
+	font-size: 30px;
+	color: #69b4ff;
+}
+
+a.changeCity {
+	color: #ff69b4;
+}
+
+a.changeCity:hover {
+	color: #69ffb4;
+}
+
+div.top{
+	padding-top: 3px;
+	padding-bottom: 3px;
+	background-image: url(graphics/IMG_3643.png);
+	background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center bottom;
+}
+
+p.textTop {
+	padding-left: 25px;
+	font: 100px futura;
+	color: #69ffb4;
+}
+
+.dayText {
+	margin-top: 0;
+}
+
+/*span{
+	background-color: black;
+	padding: 0 5 20 5px;
+}*/
+
+div.day {
+	padding-left: 25px;
+	min-height: 500px;
+	/*border: 3px solid black;*/
+}
+
+.dayHeader {
+	font: 60px futura;
+}
+
+.white {
+	color: white;
+}
+
+.advertTop{
+	height: 100px;
+}
+
+div.advert {
+	height: 250px;
+	border: 3px solid white;
+}
+
+.advertLarge {
+	height: 360px;
+	width: 1030;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	background-image: url(graphics/mockAdPano.png);                  
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+div.adOne {
+	background-color: #151515;
+}
+
+div.adTwo {
+	background-color: #b4ff69;
+}
+
+div.adThree {
+	background-color: #3f3f3f;
+}
+
+div.adFour {
+	background-color: #545454;
+}
+
+div.one {
+	background-color: #ff69b4;
+}
+
+div.two {
+	background-color: #69ffb4;
+}
+
+div.three {
+	background-color: #FF4F4F;
+}
+
+div.four {
+	background-color: #4fffff;
+}
+
+div.five {
+	background-color: #ffff69;
+}
+
+div.six {
+	background-color: #b469ff;
+}
+
+div.seven {
+	background-color: #ffb469;
+}
+
+div.eight {
+	background-color: #ff69b4;
+}
+
+div.nine {
+	background-color: #69ffb4;
+}
+
+div.ten {
+	background-color: #FF4F4F;
+}
+
+div.eleven {
+	background-color: #4fffff;
+}
+
+div.twelve {
+	background-color: #ffff69;
+}
+
+div.thirteen {
+	background-color: #b469ff;
+}
+
+div.fourteen {
+	background-color: #ffb469;
+	/*background-color: #ff69b4;*/
+}
+
+div.fifteen {
+	background-color: #69ffb4;
+}
+
+div.sixteen {
+	background-color: #FF4F4F;
+}
+
+div.seventeen {
+	background-color: #4fffff;
+}
+
+div.eighteen {
+	background-color: #ffff69;
+}
+
+div.nineteen {
+	background-color: #b469ff;
+}
+
+div.twenty {
+	
+}
+
+div.twenty-one {
+	
+}
+
+div.twenty-two {
+	background-color: #69ffb4;
+}
+
+div.twenty-three {
+	background-color: #FF4F4F;
+}
+
+div.twenty-four {
+	background-color: #4fffff;
+}
+
+div.twenty-five {
+	background-color: #ffff69;
+}
+
+div.twenty-six {
+	background-color: #b469ff;
+}
+
+div.twenty-seven {
+	
+}
+
+div.twenty-eight {
+	background-color: #69ffb4;
+}
+
+div. {
+	
+}
+
+div. {
+	
+}
+
+div. {
+	
+}
+
+div. {
+	
+}
